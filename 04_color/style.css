@@ -1,0 +1,16 @@
+body{
+    background-image: url(./imagen/The-Boys-Red-Logo-Vector.jpg);
+    background-repeat:no-repeat;
+    background-size: contain;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.carta{
+    background-color: #DC080F;
+    width: 400px;
+    text-align: center;
+}
+h2{
+    color: yellow;
+}
